@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "description": "Parse JavaScript modules into a syntax tree and walk it, with no dependencies.",
   "type": "module",
-  "license": "UNLICENSED",
+  "license": "MIT",
   "files": [
     "src"
   ],
@@ -14,5 +14,9 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/red-cup-engineering/javascript-parser-service.git"
+  },
+  "funding": {
+    "type": "individual",
+    "url": "https://github.com/561-group/.github/blob/main/TIPS.md"
   }
 }
